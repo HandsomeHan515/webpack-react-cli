@@ -1,4 +1,4 @@
-# React脚手架
+# 基于webpack的React脚手架
 
 > 使用webpack3搭建，支持postcss，less语法，open-browser及热加载, css分离，第三方依赖单独打包
 
