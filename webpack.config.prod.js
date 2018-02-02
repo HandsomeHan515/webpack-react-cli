@@ -65,8 +65,6 @@ module.exports = {
     // 热加载插件
     new webpack.HotModuleReplacementPlugin(),
 
-    // new webpack.optimize.OccurenceOrderPlugin(),
-
     new webpack.optimize.UglifyJsPlugin({
       compress: {
         //supresses warnings, usually from module minification
